@@ -1,19 +1,49 @@
-# Olá, eu sou o Thyago
+#  Olá, eu sou o Thyago!
 
-Técnico em Desenvolvimento de Sistemas  
-Graduando em Ciência da Computação no IFCE
+🎓 Estudante de **Ciência da Computação** no IFCE
+💻 Desenvolvedor focado em **Backend** e Engenharia de Software.
 
-Tenho interesse em desenvolvimento de software, automação e criação de soluções práticas utilizando tecnologia.
+Gosto de entender como as coisas funcionam por trás do código e transformar ideias em sistemas reais. Atualmente, tenho focado principalmente no desenvolvimento de APIs, bancos de dados, arquitetura de aplicações e integração entre diferentes tecnologias.
 
-## Tecnologias e Conhecimentos
-- Python
-- JavaScript
-- MySQL
+---
 
-## Objetivo
-Aprimorar minhas habilidades em desenvolvimento de software, com foco em automação, buscando participar de projetos reais e evoluir constantemente como profissional da área de tecnologia.
+## 🚀 Sobre mim
 
-## Contato
-- Email: thyagosilva321123@gmail.com
-- LinkedIn: https://www.linkedin.com/in/thyago-da-silva-ferreira-b6b0442a4/
-- GitHub: https://github.com/thyagovis
+* 🎓 Bacharelado em **Ciência da Computação**
+* 💻 Foco em **Desenvolvimento Backend**
+* 🐍 Desenvolvimento com **Python e FastAPI**
+* ☕ Desenvolvimento com **Java e Spring Boot**
+* 🗄️ Modelagem e gerenciamento de bancos de dados
+* 🔗 Desenvolvimento de **APIs REST**
+* 📊 Interesse em **Dados, IA e sistemas inteligentes**
+
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens
+
+`Python` `Java` `SQL` `HTML` `CSS`
+
+### Backend
+
+`FastAPI` `Spring Boot` `SQLAlchemy` `JPA / Hibernate`
+
+
+### Bancos de dados
+
+`PostgreSQL` `Supabase` `Neon`
+
+### Ferramentas
+
+`Git` `GitHub` `VS Code` `IntelliJ IDEA` `DBeaver`
+
+---
+
+## 🎯 Objetivo
+
+Construir sistemas cada vez melhores, evoluir como desenvolvedor e transformar conhecimento em projetos que realmente resolvam problemas.
+
+---
+
+> **Código, aprendizado e projetos — um commit de cada vez.** 🚀
