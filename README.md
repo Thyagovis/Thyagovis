@@ -23,7 +23,7 @@ Gosto de entender como as coisas funcionam por trás do código e transformar id
 
 ### Linguagens
 
-`Python` `Java` `SQL` `HTML` `CSS`
+`Python` `Java` `SQL` 
 
 ### Backend
 
