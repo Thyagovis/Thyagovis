@@ -5,7 +5,7 @@
 
 **Desenvolvedor Backend · Ciência da Computação**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=580&lines=Backend+Development;Software+Engineering;Data+%26+Machine+Learning;Always+learning%2C+always+building." alt="Apresentação animada" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=A78BFA&center=true&vCenter=true&width=580&lines=Backend+Development;Software+Engineering;Data+%26+Machine+Learning;Always+learning%2C+always+building." />
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ## Sobre mim
 
-Sou estudante de Ciência da Computação e desenvolvedor com foco em Backend.
+Estudante de Ciência da Computação e desenvolvedor com foco em Backend.
 
 Tenho interesse em engenharia de software, arquitetura de sistemas, processamento de dados e aprendizado de máquina.
 
@@ -39,16 +39,10 @@ Gosto de explorar problemas além da implementação, buscando compreender os fu
 
 ## Áreas de interesse
 
-<div align="center">
-
-| Área | Interesse |
-|:---|:---|
-| Backend Engineering | APIs, arquitetura e integração de sistemas |
-| Software Engineering | Estruturas de dados, algoritmos e design de software |
-| Data Science | Análise de dados e modelagem preditiva |
-| Machine Learning | Aprendizado supervisionado e inteligência artificial |
-
-</div>
+- **Backend Engineering:** APIs, arquitetura e integração de sistemas.
+- **Software Engineering:** estruturas de dados, algoritmos e design de software.
+- **Data Science:** análise de dados e modelagem preditiva.
+- **Machine Learning:** aprendizado supervisionado e inteligência artificial.
 
 ## GitHub Analytics
 
@@ -64,7 +58,7 @@ Gosto de explorar problemas além da implementação, buscando compreender os fu
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thyagovis&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thyagovis&bg_color=0d1117&color=c9d1d9&line=a78bfa&point=a78bfa&area=true&hide_border=true" width="100%" />
 
 </div>
 
@@ -79,7 +73,7 @@ Gosto de explorar problemas além da implementação, buscando compreender os fu
 <div align="center">
 
 <a href="https://github.com/Thyagovis">
-  <img src="https://img.shields.io/badge/GitHub-Thyagovis-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Thyagovis-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </div>
