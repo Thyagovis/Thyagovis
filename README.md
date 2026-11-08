@@ -1,49 +1,85 @@
-#  Olá, eu sou o Thyago!
 
-🎓 Estudante de **Ciência da Computação** no IFCE
-💻 Desenvolvedor focado em **Backend** e Engenharia de Software.
+<div align="center">
 
-Gosto de entender como as coisas funcionam por trás do código e transformar ideias em sistemas reais. Atualmente, tenho focado principalmente no desenvolvimento de APIs, bancos de dados, arquitetura de aplicações e integração entre diferentes tecnologias.
+# Thyago
 
----
+**Desenvolvedor Backend · Ciência da Computação**
 
-## 🚀 Sobre mim
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=580&lines=Backend+Development;Software+Engineering;Data+%26+Machine+Learning;Always+learning%2C+always+building." alt="Apresentação animada" />
 
-* 🎓 Bacharelado em **Ciência da Computação**
-* 💻 Foco em **Desenvolvimento Backend**
-* 🐍 Desenvolvimento com **Python e FastAPI**
-* ☕ Desenvolvimento com **Java e Spring Boot**
-* 🗄️ Modelagem e gerenciamento de bancos de dados
-* 🔗 Desenvolvimento de **APIs REST**
-* 📊 Interesse em **Dados, IA e sistemas inteligentes**
+</div>
 
 ---
 
-## 🛠️ Tecnologias
+## Sobre mim
 
-### Linguagens
+Sou estudante de Ciência da Computação e desenvolvedor com foco em Backend.
 
-`Python` `Java` `SQL` 
+Tenho interesse em engenharia de software, arquitetura de sistemas, processamento de dados e aprendizado de máquina.
 
-### Backend
+Gosto de explorar problemas além da implementação, buscando compreender os fundamentos e construir soluções eficientes, organizadas e sustentáveis.
 
-`FastAPI` `Spring Boot` `SQLAlchemy` `JPA / Hibernate`
+## Tecnologias
 
+<div align="center">
 
-### Bancos de dados
+**Linguagens**
 
-`PostgreSQL` `Supabase` `Neon`
+<img src="https://skillicons.dev/icons?i=python,java,js" />
 
-### Ferramentas
+**Backend & Banco de dados**
 
-`Git` `GitHub` `VS Code` `IntelliJ IDEA` `DBeaver`
+<img src="https://skillicons.dev/icons?i=fastapi,spring,postgres" />
+
+**Ferramentas & Ambiente**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,idea,vscode" />
+
+</div>
+
+## Áreas de interesse
+
+<div align="center">
+
+| Área | Interesse |
+|:---|:---|
+| Backend Engineering | APIs, arquitetura e integração de sistemas |
+| Software Engineering | Estruturas de dados, algoritmos e design de software |
+| Data Science | Análise de dados e modelagem preditiva |
+| Machine Learning | Aprendizado supervisionado e inteligência artificial |
+
+</div>
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Thyagovis&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thyagovis&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+</div>
+
+## Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Thyagovis&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" width="100%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Thyagovis/Thyagovis/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
 
 ---
 
-## 🎯 Objetivo
+<div align="center">
 
-Construir sistemas cada vez melhores, evoluir como desenvolvedor e transformar conhecimento em projetos que realmente resolvam problemas.
+<a href="https://github.com/Thyagovis">
+  <img src="https://img.shields.io/badge/GitHub-Thyagovis-181717?style=flat-square&logo=github" />
+</a>
 
----
-
-> **Código, aprendizado e projetos — um commit de cada vez.** 🚀
+</div>
