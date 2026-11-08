@@ -1,9 +1,10 @@
+<img align="right" width="150" src="./assets/gengar.gif" alt="Gengar">
 
 # Thyago
 
 **Desenvolvedor Backend · Ciência da Computação**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=A78BFA&vCenter=true&width=580&lines=Backend+Development;Software+Engineering;Artificial+Intelligence;Always+learning%2C+always+building." alt="Apresentação animada" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=A78BFA&vCenter=true&width=580&lines=Backend+Development;AI+Agents;Machine+Learning;Always+learning%2C+always+building." alt="Apresentação animada" />
 
 ---
 
