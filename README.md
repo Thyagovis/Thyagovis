@@ -1,19 +1,12 @@
 # Thyago
 
-<table border="0">
-  <tr>
-    <td valign="middle" width="75%">
-      <strong>Desenvolvedor Backend · Ciência da Computação</strong>
-      <br><br>
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=A78BFA&vCenter=true&width=480&lines=Backend+Development;AI+Agents;Machine+Learning;Software+Engineering" alt="Áreas de interesse" />
-    </td>
-    <td valign="bottom" align="right" width="25%">
-      <img src="./assets/gengar.gif" width="155" alt="Gengar" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="145" src="./assets/gengar.gif" alt="Gengar">
 
----
+**Desenvolvedor Backend · Ciência da Computação**
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3500&pause=1200&color=A78BFA&vCenter=true&width=480&lines=Backend+Development;AI+Agents;Machine+Learning;Software+Engineering" alt="Áreas de interesse" />
+
+<br clear="right">
 
 ## Sobre mim
 
@@ -28,7 +21,9 @@ Gosto de explorar problemas além da implementação, buscando compreender os fu
 <img src="https://skillicons.dev/icons?i=java,python,fastapi,spring,postgres" alt="Tecnologias" />
 
 <img src="https://img.shields.io/badge/AI_Agents-PydanticAI-8A2BE2?style=flat-square" alt="AI Agents" />
+
 <img src="https://img.shields.io/badge/Machine_Learning-Modeling-58A6FF?style=flat-square" alt="Machine Learning" />
+
 <img src="https://img.shields.io/badge/Data_Science-Data_Analysis-2EA043?style=flat-square" alt="Data Science" />
 
 ## Interesses
