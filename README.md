@@ -1,4 +1,11 @@
-<img align="right" width="150" src="./assets/gengar.gif" alt="Gengar">
+<img
+  align="right"
+  width="140"
+  hspace="20"
+  vspace="45"
+  src="./assets/gengar.gif"
+  alt="Gengar"
+/>
 
 # Thyago
 
