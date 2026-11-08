@@ -1,6 +1,6 @@
 # Thyago
 
-<img align="right" width="145" src="./assets/gengar.gif" alt="Gengar">
+<img align="center" width="145" src="./assets/gengar.gif" alt="Gengar">
 
 **Desenvolvedor Backend · Ciência da Computação**
 
